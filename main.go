@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"stock-processor/internal/consumer"
 	"strings"
 
 	ext "github.com/reugn/go-streams/extension"
